@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/ASAP.o/ASAP/master.swiftdeps"
+  },
+  "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/Sources/ASAP/DBRepository.swift": {
+    "dependencies": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/ASAP.o/ASAP/DBRepository.d",
+    "object": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/ASAP.o/Sources/ASAP/DBRepository.swift.o",
+    "swiftmodule": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/ASAP.o/ASAP/DBRepository~partial.swiftmodule",
+    "swift-dependencies": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/ASAP.o/ASAP/DBRepository.swiftdeps"
+  },
+  "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/Sources/ASAP/main.swift": {
+    "dependencies": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/ASAP.o/ASAP/main.d",
+    "object": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/ASAP.o/Sources/ASAP/main.swift.o",
+    "swiftmodule": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/ASAP.o/ASAP/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/ASAP.o/ASAP/main.swiftdeps"
+  }
+}

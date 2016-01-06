@@ -1,0 +1,29 @@
+client:
+  name: swift-build
+
+tools: {}
+
+targets:
+  "": [<ASAP>]
+  ASAP: [<ASAP>]
+
+commands:
+  <ASAP-swiftc>:
+    tool: swift-compiler
+    executable: "/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2015-12-31-a.xctoolchain/usr/bin/swiftc"
+    inputs: ["/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/Sources/ASAP/DBRepository.swift","/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/Sources/ASAP/main.swift"]
+    outputs: ["<ASAP-swiftc>","/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/ASAP.swiftmodule","/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/ASAP.o/Sources/ASAP/DBRepository.swift.o","/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/ASAP.o/Sources/ASAP/main.swift.o"]
+    module-name: "ASAP"
+    module-output-path: "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/ASAP.swiftmodule"
+    is-library: false
+    sources: ["/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/Sources/ASAP/DBRepository.swift","/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/Sources/ASAP/main.swift"]
+    objects: ["/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/ASAP.o/Sources/ASAP/DBRepository.swift.o","/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/ASAP.o/Sources/ASAP/main.swift.o"]
+    import-paths: ["/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug"]
+    temps-path: "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/ASAP.o/ASAP"
+    other-args: ["-j8","-Onone","-g","-target","x86_64-apple-macosx10.10","-sdk","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk","-I","/usr/local/include"]
+  <ASAP>:
+    tool: shell
+    inputs: ["<ASAP-swiftc>","/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/ASAP.o/Sources/ASAP/DBRepository.swift.o","/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/ASAP.o/Sources/ASAP/main.swift.o"]
+    outputs: ["<ASAP>","/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/ASAP"]
+    args: ["/Library/Developer/Toolchains/swift-2.2-SNAPSHOT-2015-12-31-a.xctoolchain/usr/bin/swiftc","-o","/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/ASAP","/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/ASAP.o/Sources/ASAP/DBRepository.swift.o","/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/ASAP.o/Sources/ASAP/main.swift.o","-target","x86_64-apple-macosx10.10","-Xlinker","-all_load","-g","-sdk","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk","/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.a","/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/http4swift.a","/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/JSON.a","-L/usr/local/lib"]
+    description: "Linking Executable:  .build/debug/ASAP"

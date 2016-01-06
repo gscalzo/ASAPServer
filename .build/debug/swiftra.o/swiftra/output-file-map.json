@@ -1,0 +1,53 @@
+{
+  "": {
+    "swift-dependencies": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/swiftra/master.swiftdeps"
+  },
+  "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/Packages/swiftra-0.0.7/Sources/ContentType.swift": {
+    "dependencies": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/swiftra/ContentType.d",
+    "object": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/Sources/ContentType.swift.o",
+    "swiftmodule": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/swiftra/ContentType~partial.swiftmodule",
+    "swift-dependencies": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/swiftra/ContentType.swiftdeps"
+  },
+  "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/Packages/swiftra-0.0.7/Sources/Matcher.swift": {
+    "dependencies": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/swiftra/Matcher.d",
+    "object": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/Sources/Matcher.swift.o",
+    "swiftmodule": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/swiftra/Matcher~partial.swiftmodule",
+    "swift-dependencies": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/swiftra/Matcher.swiftdeps"
+  },
+  "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/Packages/swiftra-0.0.7/Sources/Request.swift": {
+    "dependencies": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/swiftra/Request.d",
+    "object": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/Sources/Request.swift.o",
+    "swiftmodule": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/swiftra/Request~partial.swiftmodule",
+    "swift-dependencies": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/swiftra/Request.swiftdeps"
+  },
+  "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/Packages/swiftra-0.0.7/Sources/Response.swift": {
+    "dependencies": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/swiftra/Response.d",
+    "object": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/Sources/Response.swift.o",
+    "swiftmodule": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/swiftra/Response~partial.swiftmodule",
+    "swift-dependencies": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/swiftra/Response.swiftdeps"
+  },
+  "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/Packages/swiftra-0.0.7/Sources/ResponseSource.swift": {
+    "dependencies": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/swiftra/ResponseSource.d",
+    "object": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/Sources/ResponseSource.swift.o",
+    "swiftmodule": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/swiftra/ResponseSource~partial.swiftmodule",
+    "swift-dependencies": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/swiftra/ResponseSource.swiftdeps"
+  },
+  "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/Packages/swiftra-0.0.7/Sources/Router.swift": {
+    "dependencies": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/swiftra/Router.d",
+    "object": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/Sources/Router.swift.o",
+    "swiftmodule": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/swiftra/Router~partial.swiftmodule",
+    "swift-dependencies": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/swiftra/Router.swiftdeps"
+  },
+  "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/Packages/swiftra-0.0.7/Sources/String.swift": {
+    "dependencies": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/swiftra/String.d",
+    "object": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/Sources/String.swift.o",
+    "swiftmodule": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/swiftra/String~partial.swiftmodule",
+    "swift-dependencies": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/swiftra/String.swiftdeps"
+  },
+  "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/Packages/swiftra-0.0.7/Sources/Swiftra.swift": {
+    "dependencies": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/swiftra/Swiftra.d",
+    "object": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/Sources/Swiftra.swift.o",
+    "swiftmodule": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/swiftra/Swiftra~partial.swiftmodule",
+    "swift-dependencies": "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/.build/debug/swiftra.o/swiftra/Swiftra.swiftdeps"
+  }
+}
