@@ -1,6 +1,6 @@
 version: "Apple Swift version 2.2-dev (LLVM 3ebdbb2c7e, Clang f66c5bb67b, Swift 1f2908b4f7)"
 options: "bbe820678da93177400d6df347f49292"
-build_time: [505432939, 729021000]
+build_time: [505434321, 793534000]
 inputs:
   "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/Packages/swiftra-0.0.7/Sources/ContentType.swift": [505183920, 0]
   "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/Packages/swiftra-0.0.7/Sources/Matcher.swift": [505183920, 0]

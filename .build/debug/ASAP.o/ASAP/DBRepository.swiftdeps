@@ -8,14 +8,14 @@ provides-member:
 - ["C4ASAP12DBRepository", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- "String"
-- !private "print"
-- "DBRepository"
-- !private "NSString"
 - "dbRepository"
+- !private "print"
+- "String"
+- !private "UnicodeScalarType"
 - !private "NSUTF8StringEncoding"
 - !private "StringLiteralType"
-- !private "UnicodeScalarType"
+- "DBRepository"
+- !private "NSString"
 depends-member:
 - !private ["Ps9AnyObject", "NSString"]
 - !private ["Ps9AnyObject", "NSUTF8StringEncoding"]

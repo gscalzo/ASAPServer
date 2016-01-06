@@ -5,8 +5,13 @@ let dbRepository = DBRepository()
 class DBRepository {
     func allProducts() -> String {
         do {
-            return try NSString(contentsOfFile: "products.json", 
-                encoding: NSUTF8StringEncoding) as String
+            let productsAsNSString = try NSString(contentsOfFile: "products.json", 
+                encoding: NSUTF8StringEncoding)
+#if os(Linux)
+            return productsAsNSString.bridge()
+#else
+            return productsAsNSString as String
+#endif
         }
         catch {
             print("Error")    
