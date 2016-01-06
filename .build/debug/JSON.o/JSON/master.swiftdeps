@@ -1,8 +1,0 @@
-version: "Apple Swift version 2.2-dev (LLVM 3ebdbb2c7e, Clang f66c5bb67b, Swift 1f2908b4f7)"
-options: "5a5769f4e1b8fb9a2cdc742494b22759"
-build_time: [505434321, 294094000]
-inputs:
-  "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/Packages/JSON-0.1.0/Sources/JSON.swift": [505183918, 0]
-  "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/Packages/JSON-0.1.0/Sources/JSONParseError.swift": [505183918, 0]
-  "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/Packages/JSON-0.1.0/Sources/JSONParser.swift": [505183918, 0]
-  "/Users/giordanoscalzo/Dropbox/B05097 Swift 2 By Example/working/server/Packages/JSON-0.1.0/Sources/JSONSerializer.swift": [505183918, 0]
